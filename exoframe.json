@@ -1,5 +1,7 @@
 {
   "name": "slack.mudcoders.com",
+  "hostname": "slack.mudcoders.com",
+  "restart": "always",
   "env": {
     "GOOGLE_CAPTCHA_SECRET": "@GOOGLE_CAPTCHA_SECRET",
     "GOOGLE_CAPTCHA_SITEKEY": "@GOOGLE_CAPTCHA_SITEKEY",
