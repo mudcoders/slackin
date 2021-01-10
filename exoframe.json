@@ -7,7 +7,8 @@
     "GOOGLE_CAPTCHA_SITEKEY": "@GOOGLE_CAPTCHA_SITEKEY",
     "SLACK_API_TOKEN": "@SLACK_API_TOKEN",
     "SLACK_COC": "https://github.com/mudcoders/code-of-conduct",
-    "SLACK_SUBDOMAIN": "mudcoders"
+    "SLACK_SUBDOMAIN": "mudcoders",
+    "SLACK_INTERVAL": 60000
   }
 }
 
