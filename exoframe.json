@@ -1,0 +1,11 @@
+{
+  "name": "slack.mudcoders.com",
+  "env": {
+    "GOOGLE_CAPTCHA_SECRET": "@GOOGLE_CAPTCHA_SECRET",
+    "GOOGLE_CAPTCHA_SITEKEY": "@GOOGLE_CAPTCHA_SITEKEY",
+    "SLACK_API_TOKEN": "@SLACK_API_TOKEN",
+    "SLACK_COC": "https://github.com/mudcoders/code-of-conduct",
+    "SLACK_SUBDOMAIN": "mudcoders"
+  }
+}
+
